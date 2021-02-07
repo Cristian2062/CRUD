@@ -1,1 +1,1 @@
-# CRUD
+Ya tengo dominado el Crud, se conectar a atlas y usar la api Postman para hacer todas las fases del CRUD
